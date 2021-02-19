@@ -1,5 +1,5 @@
 baseURL = "https://boxnmove.co.uk"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
