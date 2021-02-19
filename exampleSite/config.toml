@@ -1,4 +1,4 @@
-baseURL = "https://boxnmoves.co.uk"
+baseURL = "https://boxnmove.co.uk"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
